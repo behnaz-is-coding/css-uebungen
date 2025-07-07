@@ -36,7 +36,7 @@ Jede Übung ist für ca. 15–30 Minuten gedacht.
 ## Übung 2: CSS Klassen anwenden (Farben & Text)
 
 **Ziel:** Wende CSS-Klasse auf Absätze an.  
-*Ändere beim zweiten p Tag die Schriftgröße (font-size) auf 48 Pixel. Gebe dem zweiten p Tag dafür eine CSS Klasse (class='deinNameDerKlasse') *
+*Ändere beim zweiten p Tag die Schriftgröße (font-size) auf 48 Pixel. Gebe dem zweiten p Tag dafür eine CSS Klasse (class='deinNameDerKlasse')*
 
 ### 💻 Starter-HTML
 
